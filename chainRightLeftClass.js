@@ -21,7 +21,7 @@ display(){
   
   move(){
       if (this.xpos <= width * 1.5){
-        this.xpos = this.xpos + 20;}
+        this.xpos = this.xpos + 30;}
       else{
           this.xpos = -width*.9;}
      
