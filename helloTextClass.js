@@ -238,6 +238,7 @@ class helloTextClass{
   rect(width*.3, height*.45, width*.40, height*.15, width*.1, height*.3);
   stroke(random(myColors));
   noFill();
+  strokeWeight(5);
   rect(width*.29, height*.44, width*.42, height*.17, width*.1, height*.3);
   fill('white');
   text('I AM HERE', width*.35, height*.545);}}
