@@ -20,6 +20,6 @@ class chainDownUpFromLeftClass{
 }
   move(){
     if (this.ypos >= -height * 1.5){
-        this.ypos = this.ypos - 20;}
+        this.ypos = this.ypos - 30;}
     else{this.ypos = height*.9;}}
 }
